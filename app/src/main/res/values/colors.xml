@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+<drawable name="white_bg">#FFFFFFFF</drawable>
+<drawable name="gray_bg">#FFf5f6f8</drawable>
+<drawable name="green_bg">#FF89da7e</drawable>
+
+<color name="titlebar_bg">#4A89DC</color>
+<color name="titlebar_pressed_bg">#5d9cec</color>
+<color name="titlebar_transparent_bg">#cc5d9cec</color>
+<color name="titlebar_transparent_pressed_bg">#CC4A89DC</color>
+<color name="titlebar_divider_bg">#4A89DC</color>
+<color name="titlebar_text_color">#FFFFFF</color>
+<color name="titlebar_menu_text_color">#C3C3C3</color>
+<color name="menu_pressed">#3569b6</color>
+<color name="tab_bar_bg">#FFFFFF</color>
+<color name="tab_devider">#E6E9ED</color>
+<color name="tab_text_normal">#bababa</color>
+<color name="tab_text_selected_blue">#2e9ef8</color>
+
+<color name="pager_tab_bg">#F7F7F7</color>
+<color name="pager_tab_indicator">#5D9CEC</color>
+<color name="pager_tab_text_normal">#575757</color>
+<color name="pager_tab_text_selected">#4A89DC</color>
+<color name="major_text">#575757</color>
+<color name="second_text">#aaaaaa</color>
+<color name="list_divider">#E3E3E3</color>
+<color name="no_data">#666666</color>
+<color name="lightgrey">#ff888888</color>
+<color name="txtblack">#333333</color> <!-- 文本黑的颜色 -->
+<color name="txtwhite">#FFFFFFFF</color> <!-- 文本白的颜色 -->
+<color name="txtgray">#CCCCCC</color> <!-- 文本灰的颜色 -->
+<color name="transparent_background">#50000000</color>
+<color name="background">#FFFFFF</color>
+<color name="lv_bg">#f5f7fa</color>
+<color name="topic_name">#4A89DC</color>
+<color name="topic_time">#aab2bd</color>
+<color name="topic_comments">#656d78</color>
+<color name="homework_tag">#4A89DC</color>
+<color name="notice_tag">#fc6e51</color>
+<color name="unsigned">#ed5565</color>
+<color name="signed">#48cfad</color>
+<color name="signed_clicked">#37bc9b</color>
+<color name="signed_disable">#f5f7fa</color>
+<color name="confirm_normal">#4a89dc</color>
+<color name="confirm_pressed">#5d9cec</color>
+<color name="tanslucent">#80000000</color>
+<color name="emoji_tab">#e6e9ed</color>
+
+<color name="attach_bottom_line">#e6e9ed</color>
+<color name="graybar">#bdbdbd</color>
+<color name="attachname">#656565</color>
+<color name="attachname_num">#8fbf2e</color>
+
+<!-- APP新视觉色值定义 -->
+<color name="c01">#FFFFFF</color>
+<color name="c02">#FAFAFA</color>
+<color name="c03">#F2F2F2</color>
+<color name="c04">#E6E6E6</color>
+<color name="c05">#D9D9D9</color>
+<color name="c06">#CCCCCC</color>
+<color name="c07">#BFBFBF</color>
+<color name="c08">#B3B3B3</color>
+<color name="c09">#999999</color>
+<color name="c10">#808080</color>
+<color name="c11">#4D4D4D</color>
+<color name="c12">#333333</color>
+
+<color name="b01">#646F81</color>
+<color name="b02">#5780AE</color>
+<color name="b03">#59BDE5</color>
+<color name="b04">#ECFAFF</color>
+<color name="b05">#80CAEA</color>
+<color name="b06">#C5E9F8</color>
+<color name="b07">#C0E7F7</color>
+<color name="b08">#4AAAD7</color>
+<color name="b09">#D5E9F5</color>
+<color name="b10">#61C9F2</color>
+<color name="b11">#31ADDE</color>
+<color name="b12">#ADD9EF</color>
+
+
+<color name="g01">#7FB75F</color>
+<color name="g02">#D1EDB7</color>
+<color name="g03">#F1FBE8</color>
+
+<color name="y01">#DBA515</color>
+<color name="y02">#F2E4BD</color>
+<color name="y03">#FFFBDD</color>
+
+<color name="r01">#EF6553</color>
+
+<drawable name="b12">#ADD9EF</drawable>
+<drawable name="c01">#FFFFFF</drawable>
+
+</resources>
